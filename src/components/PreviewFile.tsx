@@ -23,7 +23,7 @@ const PreviewFile = ({ file, setFile, setTrancript }: Props) => {
         <h2 className="text-lg  line-clamp-2">
           {file instanceof Blob ? file.name : ""}
         </h2>
-        <div className="lg:w-[424px]  w-32 mt-4">
+        <div className="lg:w-[424px] w-full   mt-4">
 
         <PlayerCustom audioURL={audioURL!} />
         </div>
