@@ -19,9 +19,6 @@ Captionize é um conversor de áudio para texto, desenvolvido com foco em funcio
 
 O objetivo é oferecer uma solução leve e acessível para criadores de conteúdo, jornalistas, estudantes ou qualquer pessoa que precise transformar áudio em texto sem complicações. Esta é a versão MVP (Produto Mínimo Viável), ainda em desenvolvimento, mas já funcional nos principais fluxos.
 
-Ideal para testes iniciais de integração com APIs externas e como base para aplicações mais robustas no futuro.
-Este é um *catálogo de vendas online, desenvolvido com foco em **navegação simples, busca rápida e experiência de compra fluida*. O projeto simula uma vitrine digital onde o usuário pode:
-
 
 ## 💻 Tech Stack
 
